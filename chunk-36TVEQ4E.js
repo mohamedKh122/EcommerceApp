@@ -1,0 +1,1 @@
+import{F as o,Na as r,ta as n,tb as s}from"./chunk-YRIZCD5N.js";var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=o({type:e,selectors:[["app-forgot-pass"]],standalone:!0,features:[r],decls:1,vars:0,template:function(t,i){t&1&&n(0,"router-outlet")},dependencies:[s]})}}return e})();export{c as ForgotPassComponent};
